@@ -29,3 +29,5 @@ matikan/time-out subscribe request, pada tab article
 11. buat halaman app setting untuk light & dark mode di aplikasi
 
 12. menggunakan animasi, banner shimmer animasi
+
+link APK : https://drive.google.com/file/d/1SMRHW7WxH4eUyWA7DP3Jdl8gmL3dfDaW/view?usp=sharing

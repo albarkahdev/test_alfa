@@ -1,0 +1,33 @@
+{
+  "list": [
+    {
+      "id": 0,
+      "title": "What’s in (and Not in) the U.S.-China Trade Deal",
+      "description": "His formula may work, but his films spark too much debate about his inability to evolve.",
+      "time": "13h ago",
+      "author": "Ana Swanson",
+      "cover": "https://picsum.photos/700",
+      "category": "Film"
+    },
+    {
+      "id": 1,
+      "title": "What’s in (and Not in) the U.S.-China Trade Deal",
+      "description": "His formula may work, but his films spark too much debate about his inability to evolve.",
+      "time": "13h ago",
+      "author": "Ana Swanson",
+      "cover": "https://picsum.photos/700",
+      "category": "Film"
+    }
+  ],
+  "list_screen": [
+    {
+      "id": 0,
+      "title": "What’s in (and Not in) the U.S.-China Trade Deal",
+      "description": "His formula may work, but his films spark too much debate about his inability to evolve.",
+      "time": "13h ago",
+      "author": "Ana Swanson",
+      "cover": "https://picsum.photos/700",
+      "category": "Film"
+    }
+  ]
+}
